@@ -3,5 +3,5 @@ echo -
 echo Shadow vRP
 echo -
 pause
-start ..\run.cmd +exec server.cfg
+start ..\FXServer.exe +exec server.cfg
 exit
